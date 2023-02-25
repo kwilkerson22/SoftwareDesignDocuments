@@ -19,4 +19,4 @@ I would revise the development requirements section to include a discussion of c
 
 // How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 
-My goal was the
+
